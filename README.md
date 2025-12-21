@@ -1,9 +1,23 @@
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20World&type=waving&color=gradient&animation=fadeIn" />
-</div>
+<!-- HEADER -->
+<p align=center>
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20World&type=waving&color=gradient&animation=fadeIn" width=100% />
+</p>
 
 
-Hi there 👋
+<!-- ABOUT ME -->
+
+
+<!-- TECHNOLOGY & TOOLS -->
+
+
+<!-- GITHUB STATS -->
+
+
+<!-- FOOTER -->
+<p align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer" width=100% />
+</p>
+
 
 <!--
 **kenji-adachi/kenji-adachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
