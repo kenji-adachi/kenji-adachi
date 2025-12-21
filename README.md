@@ -1,8 +1,15 @@
-## Hi there 👋
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20World&type=waving&color=gradient&animation=fadeIn" />
+</div>
+
+
+Hi there 👋
 
 <!--
 **kenji-adachi/kenji-adachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align=center>
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20World&type=waving" />
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
