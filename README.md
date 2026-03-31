@@ -8,13 +8,17 @@
 ## A Little Bit About Me 👨🏻‍💻
 
 👋 Hi, my name is Kenji Adachi.   
-I am a software engineer with experience in full stack development, large scale software production and a little bit of game development.  
+I am a software engineer with experience in full stack development, large scale software production and game development.  
 Driven by the ability to create useful and impressive technology, I have graduated with a bachelors degree in computer science. I am looking forward to using my knowledge and experience to contribute
 to the future of tehcnology and the upkeep of the current technology. Please share any fun projects with me, I would love to help out if I can. 
 
 💬 Lets connect and have a chat! Check out my Linkedin or Website  
 <a href="https://www.linkedin.com/in/kenjiada/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width = 5% /></a> <a href="https://www.kadachi.dev"><img alt="image" src="https://github.com/user-attachments/assets/592ab4d9-71e8-4208-a78f-61af615eaac3" width = 5% /></a>
 
+🎥 I recently started content creation, check it out!
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@devbakerystudio/featured?sub_confirmation=1)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@devbakerystudio)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://jaychiro.itch.io/)
 
 <!-- TECHNOLOGY & TOOLS -->
 ## Technology & Tools 🚀 
