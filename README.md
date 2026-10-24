@@ -22,7 +22,7 @@ to the future of tehcnology and the upkeep of the current technology. Please sha
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@devbakerystudio/featured?sub_confirmation=1)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@devbakerystudio)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://jaychiro.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://dev-bakery.itch.io/)
 
 <!-- TECHNOLOGY & TOOLS -->
 ## Technology & Tools 🚀 
@@ -82,7 +82,7 @@ to the future of tehcnology and the upkeep of the current technology. Please sha
 - Communicating to clients
 - Translating complex and technical language into a business or client focused language
 - Leading or assisting demos
-- Hacakthons
+- Hackathons
 - Improving user experience through product updates and feedback
 - Full stack development
 - Using databases and creating queries
